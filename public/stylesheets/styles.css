@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+a {
+    text-decoration: none !important;
+    color: #000 !important;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    margin: 20px 0 20px 0;
+}
+
+#menu {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+}
+
+#menu li {
+    padding: 0 15px 0 0;
+}
+
+#landing {
+    margin-left: 50px;
+}
+
+#land-content {
+    display: flex;
+}
+
+#land-content p{
+    margin: 100px 50px 0 20px;
+}
+
+#pers-card {
+    width: 200px;
+}
+
+#pers-card ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#pers-card h2 {
+    font-size: 15px;
+    padding-bottom: 4px;
+}
+
+/* About Page */
+
+#about-content {
+    margin: 50px 50px 0 20px;
+}
+
+#about-content h1{
+    font-size: 60px;
+    margin: 0;
+}
+
+/* Works Page */
+
+#all-works {
+    display: flex;
+    flex-direction: column;
+    margin: 50px 50px 0 20px;
+}
+
+#all-works {
+    display: flex;
+    flex-direction: column;
+    margin: 50px 50px 0 20px;
+}
+
+.cardWork {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.cardWork p{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.cText {
+    padding: 0 50px 0 15px;
+    background-color: aliceblue;
+}
+
+/* Gallery Page */
+
+.galleryHeight {
+    height: 200px !important;
+}
